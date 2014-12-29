@@ -22,7 +22,7 @@ http://tech.shantanugoel.com/2008/05/03/smart-programming-in-c-using-glib.html
 
 http://www.drdobbs.com/cpp/general-purpose-c-libraries-limited-opti/231000967
 
-using apr:
+Using apr:
 
 http://people.apache.org/~rooneg/talks/portable-c-with-apr/apr.html
 
