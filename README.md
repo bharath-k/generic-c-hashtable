@@ -15,8 +15,11 @@ Notes:
 The following links have some interesting questions I followed to choose APR over glib2. The main reason being portability to windows is well documented in apr compared to glib2.
 
 http://programmers.stackexchange.com/questions/193733/a-simple-c-library-filling-the-gaps-in-standard-c-posix-libraries
+
 http://programmers.stackexchange.com/questions/116650/is-there-any-boost-equivalent-library-for-c
+
 http://tech.shantanugoel.com/2008/05/03/smart-programming-in-c-using-glib.html
+
 http://www.drdobbs.com/cpp/general-purpose-c-libraries-limited-opti/231000967
 
 using apr:
