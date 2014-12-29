@@ -25,9 +25,11 @@ http://www.drdobbs.com/cpp/general-purpose-c-libraries-limited-opti/231000967
 using apr:
 
 http://people.apache.org/~rooneg/talks/portable-c-with-apr/apr.html
+
 http://apr.apache.org/docs/apr/2.0/group__apr__hash.html
 
 Using glib2:
 
 http://www.gtk.org/
+
 http://www.ibm.com/developerworks/linux/tutorials/l-glib/
